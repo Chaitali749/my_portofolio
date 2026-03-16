@@ -289,7 +289,7 @@ const Hero = () => {
             transition={{ duration: 0.6 }}
           >
             <Greeting>Hello, I'm</Greeting>
-            <Name>Your Name</Name>
+            <Name>Chaitali Joshi</Name>
             <Title>Frontend Developer</Title>
             <Description>
               I'm a passionate frontend developer with expertise in creating beautiful,
