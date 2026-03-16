@@ -207,19 +207,19 @@ const About = () => {
               <InfoList>
                 <li>
                   <strong>Name:</strong>
-                  <span>Your Name</span>
+                  <span>Chaitali Joshi</span>
                 </li>
                 <li>
                   <strong>Email:</strong>
-                  <span>your.email@example.com</span>
+                  <span>chaitalijoshi130@gmail.com</span>
                 </li>
                 <li>
                   <strong>Experience:</strong>
-                  <span>X+ Years</span>
+                  <span>Fresher But Good at Programming</span>
                 </li>
                 <li>
                   <strong>Location:</strong>
-                  <span>Your Location</span>
+                  <span>Bengaluru,Karnataka,India</span>
                 </li>
               </InfoList>
               
